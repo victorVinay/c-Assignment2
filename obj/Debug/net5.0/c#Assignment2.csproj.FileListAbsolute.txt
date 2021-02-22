@@ -1,0 +1,16 @@
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.exe
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.deps.json
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.runtimeconfig.json
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.runtimeconfig.dev.json
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.dll
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\ref\c#Assignment2.dll
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\bin\Debug\net5.0\c#Assignment2.pdb
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.csprojAssemblyReference.cache
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.AssemblyInfoInputs.cache
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.AssemblyInfo.cs
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.dll
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\ref\c#Assignment2.dll
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.pdb
+C:\Users\vinay singh jadon\Desktop\c#Assignment2\obj\Debug\net5.0\c#Assignment2.genruntimeconfig.cache
